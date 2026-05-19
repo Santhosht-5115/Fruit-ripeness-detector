@@ -50,7 +50,7 @@ Python · TensorFlow . Keras · MobileNetV2 · OpenCV · Streamlit · NumPy · M
 
 ```bash
 
-git clone https://github.com/YOUR-USERNAME/fruit-ripeness-detector.git
+git clone https://github.com/Santhosht-5115/fruit-ripeness-detector.git
 
 cd fruit-ripeness-detector
 
@@ -66,7 +66,7 @@ python -m streamlit run app.py
 
 \- `fruit\_ripeness\_mobilenet.h5` — included in repo (13 MB)  
 
-\- `fruit\_ripeness\_cnn\_model.h5` — \[Download from Google Drive](YOUR-GOOGLE-DRIVE-LINK) (260 MB)
+\- `fruit\_ripeness\_cnn\_model.h5` — \[Download from Google Drive](https://drive.google.com/drive/folders/1-4hvDepKy1-TnUlinWbuICyT44KcovOl?usp=sharing) (260 MB)
 
 
 
