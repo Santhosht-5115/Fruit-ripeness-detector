@@ -10,7 +10,7 @@ MobileNetV2 transfer learning, deployed as a real-time web app via Streamlit.
 
 \## 📸 Demo
 
-!\[Demo](demo.gif)
+![Demo](demo.gif)
 
 
 
